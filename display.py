@@ -1,5 +1,3 @@
-# display the final centroids
-
 import numpy as np
 
 c_images = [] # temp store of centroids data
